@@ -6,3 +6,5 @@ google-generativeai==0.1.0rc1
 python-dotenv==1.0.1
 sentence-transformers==2.3.1
 chromadb==0.4.22
+pydantic-2.4.2 
+pydantic-core-2.10.1 
