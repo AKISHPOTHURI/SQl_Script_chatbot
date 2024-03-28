@@ -8,3 +8,4 @@ sentence-transformers==2.3.1
 chromadb==0.4.22
 pydantic-2.4.2 
 pydantic-core-2.10.1 
+sqlvalidator
